@@ -72,5 +72,20 @@ Initially, NAT and Host-Only networks were mixed, causing inconsistent IP ranges
 
 ![Domain Setup Diagram](domain-setup.png)
 
+## Screenshots
+
+### Active Directory Installation
+![AD DS Installed](ad-installed.png)
+
+### Domain Configuration
+![Domain Installed](domain-installed.png)
+
+### Connectivity Verification
+
+**Client 1 – Ping Test**
+![Client 1 Ping Test](user1-ping-test.png)
+
+**Client 2 – Ping Test**
+![Client 2 Ping Test](user2-ping-test.png)
 
 
