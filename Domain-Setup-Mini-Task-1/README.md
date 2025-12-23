@@ -39,13 +39,6 @@ All virtual machines were configured on the same Host-Only network to simulate a
 
 ---
 
-## Diagram
-
-![Domain Setup Diagram](domain-setup.png)
-
-
----
-
 ## Issue & Fix
 
 Initially, NAT and Host-Only networks were mixed, causing inconsistent IP ranges and connectivity issues.
@@ -72,6 +65,12 @@ Initially, NAT and Host-Only networks were mixed, causing inconsistent IP ranges
 - Stable network communication established
 - Clients joined to the domain
 - Lab ready for further Active Directory and SOC tasks
+
+---
+
+## Diagram
+
+![Domain Setup Diagram](domain-setup.png)
 
 
 
