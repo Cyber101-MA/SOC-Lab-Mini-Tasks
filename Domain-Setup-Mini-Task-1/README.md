@@ -42,7 +42,7 @@ All virtual machines were configured on the same Host-Only network to simulate a
 ## Diagram
 
 > Network diagram included in this repository  
-> `domain-setup.png`
+> `Domain-Setup-Mini-Task-1/domain-setup.png`
 
 ---
 
