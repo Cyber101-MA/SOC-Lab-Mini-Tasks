@@ -45,7 +45,7 @@ The Windows clients were only joined to the domain to provide a complete AD envi
 
 **Evidence:**
 
-![Domain Join Success](01-domain-join-success-client.png)
+![Domain Join Success](01-domain-join-success-clients.png)
 
 ---
 
@@ -77,7 +77,7 @@ The Windows clients were only joined to the domain to provide a complete AD envi
 
 **Evidence:**
 
-![Failed Authentication](04-failed-authentication.png)
+![Failed Authentication](04-failed-domain-login-wrong-password.png)
 
 ---
 
@@ -97,7 +97,7 @@ The Windows clients were only joined to the domain to provide a complete AD envi
 
 **Evidence:**
 
-![Event Log Detection](05-event-log-4771.png)
+![Event Log Detection](05-eventid-4771-kerberos-auth-failure.png)
 
 ---
 
