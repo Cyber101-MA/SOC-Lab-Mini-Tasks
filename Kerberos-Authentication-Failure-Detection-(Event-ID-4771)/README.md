@@ -29,7 +29,7 @@ The Windows clients were only joined to the domain to provide a complete AD envi
 
 ## Lab Architecture Diagram
 
-![Lab Architecture Diagram](diagrams/lab-architecture-diagram.png)
+![Lab Architecture Diagram](lab-architecture-diagram.png)
 
 **Diagram One-Liner:** Two Windows clients joined to a Domain Controller where authentication is monitored centrally.
 
@@ -45,7 +45,7 @@ The Windows clients were only joined to the domain to provide a complete AD envi
 
 **Evidence:**
 
-![Domain Join Success](images/01-domain-join-success-client.png)
+![Domain Join Success](01-domain-join-success-client.png)
 
 ---
 
@@ -58,7 +58,7 @@ The Windows clients were only joined to the domain to provide a complete AD envi
 
 **Evidence:**
 
-![AD Computers Listed](images/02-ad-computers-clients-listed.png)
+![AD Computers Listed](02-ad-computers-clients-listed.png)
 
 ---
 
@@ -67,7 +67,7 @@ The Windows clients were only joined to the domain to provide a complete AD envi
 * Applied Group Policy changes on the Domain Controller.
 * Forced policy update using CMD
 
-![Force Group Policy Update](images/03-gpupdate-force-success.png)
+![Force Group Policy Update](03-gpupdate-force-success.png)
 
 
 ## 4. Failed Authentication Simulation on DC
@@ -77,7 +77,7 @@ The Windows clients were only joined to the domain to provide a complete AD envi
 
 **Evidence:**
 
-![Failed Authentication](images/04-failed-authentication.png)
+![Failed Authentication](04-failed-authentication.png)
 
 ---
 
@@ -97,7 +97,7 @@ The Windows clients were only joined to the domain to provide a complete AD envi
 
 **Evidence:**
 
-![Event Log Detection](images/05-event-log-4771.png)
+![Event Log Detection](05-event-log-4771.png)
 
 ---
 
