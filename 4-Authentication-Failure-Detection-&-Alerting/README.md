@@ -26,6 +26,7 @@ In previous tasks, we observed Event ID **4771** for Kerberos authentication fai
    - Security Level: Audit Failure
    - Thread ID: 4092
    - Rule: cc7.2 / cc7.3
+6. I used Wazuh to detect a Kerberos pre-authentication failure (Event ID 4771) on a Domain Controller. I analyzed the 0x18 status code to identify it as a likely bad password attempt and investigated the source IP to determine if it was an isolated typo or a brute-force attack.
 7. Captured screenshots for documentation:
    1. Failed login attempt with timestamp.
    2. Event Viewer entry showing Event ID 4771.
