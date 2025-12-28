@@ -36,6 +36,9 @@ In previous tasks, we observed Event ID **4771** for Kerberos authentication fai
 ## Outcome
 Failed login attempts on the domain controller were successfully captured and logged in Wazuh, confirming that the alerting and monitoring system is operational. This task validates the SOC lab's ability to detect authentication failures.
 
+## Recommendation
+If 5+ instances of Event 4771 occur within 1 minute for a single user, the account should be temporarily locked, and the source IP should be investigated for potential brute-force activity.
+
 
 ## Diagram – Failed Domain Login Event Flow
 
