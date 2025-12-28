@@ -77,7 +77,7 @@ This screenshot shows the same authentication failure ingested by Wazuh and disp
 
 This screenshot displays the detailed alert view in the Wazuh dashboard. It includes the agent IP, event ID 4771, security channel, event description, and associated compliance rules. This confirms full visibility and alert generation for failed authentication attempts.
 
-![ScreenShot4](./04_wazuh_alert_kerberos_failure.png)
+![ScreenShot4](./04_wazuh_alert_&_kerberos_failure.png)
 
 
 
