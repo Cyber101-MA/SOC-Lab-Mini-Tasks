@@ -80,31 +80,31 @@ From the Kali Linux client, the throughput was measured using `iperf3 -c 192.168
 ---
 
 **Screenshots included:**  
-- Screenshot 1: Lab Network Configuration
+**Screenshot 1: Lab Network Configuration**
   ![Wazuh Log Flow Diagram](01_lab_network_configuration.png.png)
 
   
-- Screenshot 2: Ip Address Verification
+**Screenshot 2: Ip Address Verification**
   ![Wazuh Log Flow Diagram](02_ip_address_verification.png.png)
 
 
-  
-- Screenshot 3: Link Speed Bandwidth Linux
+
+**Screenshot 3: Link Speed Bandwidth Linux**
   ![Wazuh Log Flow Diagram](03_link_speed_bandwidth_linux.png.png)
 
 
   
-- Screenshot 3: Link Speed Bandwidth Windows
+**Screenshot 3: Link Speed Bandwidth Windows**
   ![Wazuh Log Flow Diagram](03_link_speed_bandwidth_windows.png.png)
 
 
   
-- Screenshot 4: iperf3 server running
+**Screenshot 4: Iperf3 Server Running**
   ![Wazuh Log Flow Diagram](04_iperf3_server_running.png.png)
 
 
   
-- Screenshot 5: iperf3 client throughput measurement
+**Screenshot 5: Iperf3 Client Throughput Measurement**
   ![Wazuh Log Flow Diagram](05_throughput_measurement_default.png.png)
 
   
